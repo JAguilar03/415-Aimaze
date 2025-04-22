@@ -13,3 +13,4 @@ Controls:
 Movement: WASD for player 1, arrow keys for player 2 
 Speed Boost: F for player 1, Slash key for player 2
 Maze Swap: Left Shift for player 2, Right shift for player 2
+
